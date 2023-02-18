@@ -1,0 +1,3 @@
+encrypt = input()
+message = input()
+
